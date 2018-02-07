@@ -1,0 +1,3 @@
+C:/Users/Exper/Desktop/ninjahw2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Exper/Desktop/ninjahw2/cmake-build-debug/CMakeFiles/ninjahw2.dir
+C:/Users/Exper/Desktop/ninjahw2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
