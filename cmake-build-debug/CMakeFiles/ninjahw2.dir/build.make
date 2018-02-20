@@ -56,38 +56,38 @@ include CMakeFiles/ninjahw2.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/ninjahw2.dir/flags.make
 
-CMakeFiles/ninjahw2.dir/main.cpp.obj: CMakeFiles/ninjahw2.dir/flags.make
-CMakeFiles/ninjahw2.dir/main.cpp.obj: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Exper\Desktop\ninjahw2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/ninjahw2.dir/main.cpp.obj"
-	C:\Users\Exper\Desktop\Programs\Winbuilds\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\ninjahw2.dir\main.cpp.obj -c C:\Users\Exper\Desktop\ninjahw2\main.cpp
+CMakeFiles/ninjahw2.dir/driver.cpp.obj: CMakeFiles/ninjahw2.dir/flags.make
+CMakeFiles/ninjahw2.dir/driver.cpp.obj: ../driver.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Exper\Desktop\ninjahw2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/ninjahw2.dir/driver.cpp.obj"
+	C:\Users\Exper\Desktop\Programs\Winbuilds\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\ninjahw2.dir\driver.cpp.obj -c C:\Users\Exper\Desktop\ninjahw2\driver.cpp
 
-CMakeFiles/ninjahw2.dir/main.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ninjahw2.dir/main.cpp.i"
-	C:\Users\Exper\Desktop\Programs\Winbuilds\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Exper\Desktop\ninjahw2\main.cpp > CMakeFiles\ninjahw2.dir\main.cpp.i
+CMakeFiles/ninjahw2.dir/driver.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ninjahw2.dir/driver.cpp.i"
+	C:\Users\Exper\Desktop\Programs\Winbuilds\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Exper\Desktop\ninjahw2\driver.cpp > CMakeFiles\ninjahw2.dir\driver.cpp.i
 
-CMakeFiles/ninjahw2.dir/main.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ninjahw2.dir/main.cpp.s"
-	C:\Users\Exper\Desktop\Programs\Winbuilds\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Exper\Desktop\ninjahw2\main.cpp -o CMakeFiles\ninjahw2.dir\main.cpp.s
+CMakeFiles/ninjahw2.dir/driver.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ninjahw2.dir/driver.cpp.s"
+	C:\Users\Exper\Desktop\Programs\Winbuilds\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Exper\Desktop\ninjahw2\driver.cpp -o CMakeFiles\ninjahw2.dir\driver.cpp.s
 
-CMakeFiles/ninjahw2.dir/main.cpp.obj.requires:
+CMakeFiles/ninjahw2.dir/driver.cpp.obj.requires:
 
-.PHONY : CMakeFiles/ninjahw2.dir/main.cpp.obj.requires
+.PHONY : CMakeFiles/ninjahw2.dir/driver.cpp.obj.requires
 
-CMakeFiles/ninjahw2.dir/main.cpp.obj.provides: CMakeFiles/ninjahw2.dir/main.cpp.obj.requires
-	$(MAKE) -f CMakeFiles\ninjahw2.dir\build.make CMakeFiles/ninjahw2.dir/main.cpp.obj.provides.build
-.PHONY : CMakeFiles/ninjahw2.dir/main.cpp.obj.provides
+CMakeFiles/ninjahw2.dir/driver.cpp.obj.provides: CMakeFiles/ninjahw2.dir/driver.cpp.obj.requires
+	$(MAKE) -f CMakeFiles\ninjahw2.dir\build.make CMakeFiles/ninjahw2.dir/driver.cpp.obj.provides.build
+.PHONY : CMakeFiles/ninjahw2.dir/driver.cpp.obj.provides
 
-CMakeFiles/ninjahw2.dir/main.cpp.obj.provides.build: CMakeFiles/ninjahw2.dir/main.cpp.obj
+CMakeFiles/ninjahw2.dir/driver.cpp.obj.provides.build: CMakeFiles/ninjahw2.dir/driver.cpp.obj
 
 
 # Object files for target ninjahw2
 ninjahw2_OBJECTS = \
-"CMakeFiles/ninjahw2.dir/main.cpp.obj"
+"CMakeFiles/ninjahw2.dir/driver.cpp.obj"
 
 # External object files for target ninjahw2
 ninjahw2_EXTERNAL_OBJECTS =
 
-ninjahw2.exe: CMakeFiles/ninjahw2.dir/main.cpp.obj
+ninjahw2.exe: CMakeFiles/ninjahw2.dir/driver.cpp.obj
 ninjahw2.exe: CMakeFiles/ninjahw2.dir/build.make
 ninjahw2.exe: CMakeFiles/ninjahw2.dir/linklibs.rsp
 ninjahw2.exe: CMakeFiles/ninjahw2.dir/objects1.rsp
@@ -100,7 +100,7 @@ CMakeFiles/ninjahw2.dir/build: ninjahw2.exe
 
 .PHONY : CMakeFiles/ninjahw2.dir/build
 
-CMakeFiles/ninjahw2.dir/requires: CMakeFiles/ninjahw2.dir/main.cpp.obj.requires
+CMakeFiles/ninjahw2.dir/requires: CMakeFiles/ninjahw2.dir/driver.cpp.obj.requires
 
 .PHONY : CMakeFiles/ninjahw2.dir/requires
 

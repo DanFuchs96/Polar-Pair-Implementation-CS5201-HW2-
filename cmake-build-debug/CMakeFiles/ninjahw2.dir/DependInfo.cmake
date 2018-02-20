@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/Exper/Desktop/ninjahw2/main.cpp" "C:/Users/Exper/Desktop/ninjahw2/cmake-build-debug/CMakeFiles/ninjahw2.dir/main.cpp.obj"
+  "C:/Users/Exper/Desktop/ninjahw2/driver.cpp" "C:/Users/Exper/Desktop/ninjahw2/cmake-build-debug/CMakeFiles/ninjahw2.dir/driver.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

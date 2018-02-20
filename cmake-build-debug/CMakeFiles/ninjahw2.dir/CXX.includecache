@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Exper/Desktop/ninjahw2/driver.cpp
+iostream
+-
+fstream
+-
+vector
+-
+iomanip
+-
+polar.h
+C:/Users/Exper/Desktop/ninjahw2/polar.h
+norm.h
+C:/Users/Exper/Desktop/ninjahw2/norm.h
+
+C:/Users/Exper/Desktop/ninjahw2/norm.h
+iostream
+-
+vector
+-
+polar.h
+C:/Users/Exper/Desktop/ninjahw2/polar.h
+
+C:/Users/Exper/Desktop/ninjahw2/polar.h
+iostream
+-
+cstdlib
+-
+polar.hpp
+C:/Users/Exper/Desktop/ninjahw2/polar.hpp
+
+C:/Users/Exper/Desktop/ninjahw2/polar.hpp
+iostream
+-
+cstdlib
+-
+cmath
+-
+

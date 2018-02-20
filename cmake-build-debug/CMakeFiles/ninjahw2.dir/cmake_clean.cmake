@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/ninjahw2.dir/main.cpp.obj"
+  "CMakeFiles/ninjahw2.dir/driver.cpp.obj"
   "ninjahw2.pdb"
   "ninjahw2.exe"
   "ninjahw2.exe.manifest"

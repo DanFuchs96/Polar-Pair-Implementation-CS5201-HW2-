@@ -82,7 +82,16 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/Exper/Desktop/ninjahw2/main.cpp">
+		<Unit filename="C:/Users/Exper/Desktop/ninjahw2/driver.cpp">
+			<Option target="ninjahw2"/>
+		</Unit>
+		<Unit filename="C:/Users/Exper/Desktop/ninjahw2/norm.h">
+			<Option target="ninjahw2"/>
+		</Unit>
+		<Unit filename="C:/Users/Exper/Desktop/ninjahw2/polar.h">
+			<Option target="ninjahw2"/>
+		</Unit>
+		<Unit filename="C:/Users/Exper/Desktop/ninjahw2/polar.hpp">
 			<Option target="ninjahw2"/>
 		</Unit>
 		<Unit filename="C:/Users/Exper/Desktop/ninjahw2/CMakeLists.txt">
